@@ -1,0 +1,103 @@
+h1
+{
+    color: rgb(160, 69, 4);
+    text-align: center;
+}
+
+div.contenedor
+{
+  display: grid;
+  grid-template-rows: 300px  ;
+  grid-template-columns: 200px 200px 200px ;
+  justify-content: center;
+  padding-top: 180px;
+  box-sizing: border-box;
+  gap: 50px;
+  text-align: center;
+}
+
+nav
+{
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background-color:rgb(126, 12, 12);
+  z-index: 100;
+  
+}
+
+div.a img
+{
+ 
+ top: 30px;
+ width:50%;
+ border-radius: 60%;
+ height: 30%;
+ top:-150px;
+ left: 49px;
+ position: relative;
+  
+  
+  
+}
+div.a p
+{
+ 
+  font-style: oblique;
+  text-align: center;
+  position: relative;
+bottom: -80px;
+  
+}
+div.a
+{
+  box-shadow: 3px 3px 3px;
+}
+div.b p
+{
+  font-style: oblique;
+  text-align: center;
+  position: relative;
+bottom: -80px;
+}
+.c
+{
+  width:50%;
+  border-radius: 60%;
+  height: 30%;
+  top:-150px;
+  left: 49px;
+  position: relative;
+ 
+}
+
+div.b
+{
+  box-shadow: 3px 3px 3px;
+  
+}
+
+
+div.d p
+{
+
+position: relative;
+bottom: -80px;
+
+}
+
+.f
+{
+  width:50%;
+  border-radius: 60%;
+  height: 30%;
+  top:-150px;
+  left: 49px;
+  position: relative;
+}
+div.d
+{
+  box-shadow: 3px 3px 3px;
+}

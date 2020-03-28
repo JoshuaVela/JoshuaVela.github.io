@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(8, 83, 83);
+    margin-top: 125px;
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Junis{
+    width: 100%;
+    background-color: rgb(226, 14, 14);
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.tela{
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    box-shadow: 2px 2px 7px rgb(3, 10, 71)30, 54, 54);
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 125px;
+}
+input{
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+button{
+    margin: 5px;
+}
+.CajaDeResultados{
+    background-color: yellow;
+    width: 250px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-shadow: 2px 2px 7px rgb(124, 23, 23)82, 38, 38);
+}

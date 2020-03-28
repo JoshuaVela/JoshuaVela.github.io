@@ -1,0 +1,122 @@
+div.divGrande
+{
+   border-style:ridge;
+}
+
+
+
+div.div2 img
+{
+   
+   width:15%;
+   height: auto;
+   margin-right: 20px;
+   padding-bottom: 20px;
+   
+}
+
+
+div.div2 
+{
+   background-color: rgb(196, 134, 20);
+   float: left;
+   
+}
+
+.div2 *{
+flex-grow: 1;
+}
+
+div.div4
+{
+   background-color: rgb(63, 199, 22);
+   text-align: center;
+}
+
+
+p.pepinillos
+{
+ color: rgb(99, 7, 7);
+}
+
+body
+{
+   background-image: url(https://static.vecteezy.com/system/resources/previews/000/429/077/non_2x/vector-seamless-restaurant-menu-pattern-background.jpg);
+}
+
+
+
+
+
+div.divGrande2
+{
+   background-color: rgb(15, 22, 129);
+   border-style:dotted;
+}
+
+div.div6 img
+{
+   
+   width:15%;
+   height: auto;
+   margin-right: 20px;
+   
+}
+div.div6 
+{
+   background-color: rgb(146, 39, 62);
+   display: flex;
+   flex-direction: row;
+   
+}
+
+.div6 *{
+   flex-grow: 1;
+   }
+
+
+div.div8
+{
+   background-color: rgb(9, 201, 9);
+   text-align: center;
+}
+
+div h2
+{
+   color: rgb(37, 6, 6);
+   text-decoration: underline;
+   text-align: center;
+}
+p.red
+{
+   color: rgb(10, 109, 92);
+}
+
+div.div7EtiquetaSola p
+{
+   color:black;
+   box-shadow:            5px 5px 5px 2px #000000;
+   max-width: 170px;
+   height: 90;
+   text-align: center;
+   background-color: white;
+   
+
+}
+
+div.div3EtiquetaSola p
+{
+   border-style:groove;
+   max-width: 80px;
+   padding-left:30px ;
+   color: rgb(255, 255, 255);
+   border-color: rgb(255, 255, 255);
+   text-align: center;
+   
+}
+
+
+
+
+
+

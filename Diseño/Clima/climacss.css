@@ -1,0 +1,43 @@
+body,
+html {
+    box-sizing: border-box;
+    background-color: rgb(0, 255, 43)
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-family: 'Spartan', sans-serif;
+    font-style: italic;
+    background-color: rgb(0, 57, 10);
+}
+
+div {
+    font-family: 'Spartan', sans-serif;
+    text-align: center;
+    line-height: 1.5em;
+}
+
+#clima7 {
+    margin-top: 20px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+}
+
+.min,
+.max,
+.weather {
+    margin-top: 20px;
+    background: rgba(255, 0, 25);
+    font-size: 25px;
+}
+
+.date {
+    background: rgba(245, 246, 250, .3);
+    font-size: 30px;
+    font-weight: bold;
+}
